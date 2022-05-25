@@ -19,3 +19,11 @@ install jupyter notebook
 ```
 pip install jupyter notebook
 ```
+add & commit the changes
+```
+git add . && git commit -m "first commit"
+```
+push the changes
+```
+git push -u origin main
+```
