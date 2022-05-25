@@ -1,5 +1,10 @@
 # LinearRegression_CarsDataSet
-create new env & activate
+
+clone the repo
+```
+git clone https://github.com/ChanduKReddy99/LinearRegression_CarsDataSet.git
+```
+create new env & activate it.
 ```
 conda create -p .env python=3.7 -y
 conda activate .env/
