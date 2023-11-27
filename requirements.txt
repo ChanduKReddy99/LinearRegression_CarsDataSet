@@ -2,5 +2,8 @@ numpy
 pandas
 seaborn
 matplotlib
-sklearn
+scikit-learn
+statsmodels
+ydata-profiling
+missingno
 statsmodels
